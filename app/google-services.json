@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887931363858",
+    "firebase_url": "https://jeparadise-52223-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jeparadise-52223",
+    "storage_bucket": "jeparadise-52223.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887931363858:android:f33abba7b28ac973166ecb",
+        "android_client_info": {
+          "package_name": "com.example.jeparadise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887931363858-sshf7ivsqq0tph65dkdqjoi503ajjd60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi9aQFO0yY6ZMX0q4vJYQbE_A0uygUf3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887931363858-sshf7ivsqq0tph65dkdqjoi503ajjd60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
